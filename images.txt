@@ -1,6 +1,1 @@
 vllm-openai
-#支持私库
-docker.1ms.run/vllm/vllm-openai:latest
-vllm-openai:latest
-#支持指定架构
---platform=linux/arm64 vllm-openai:latest
